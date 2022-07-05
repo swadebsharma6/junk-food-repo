@@ -22,7 +22,7 @@ h1{
 }
 section{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -37,4 +37,19 @@ section{
     padding: 10px 40px;
     color: beige;
     border-radius: 10px;
+}
+.my-recipie {
+    text-align: center;
+}
+.details-ricipie{
+    text-align: center;
+}
+.folloer-number{
+    display: inline-flexbox;
+}
+footer p{
+    text-align: center;
+    background-color: rgb(226, 168, 168);
+    color: blueviolet;
+    padding: 30px;
 }
