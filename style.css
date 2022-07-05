@@ -4,6 +4,7 @@ body{
 }
 .top-banner{
    background-image: url(images/Frame\ 58.jpg );
+   background-repeat: no-repeat;
 
 }
 
