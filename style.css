@@ -7,6 +7,11 @@ body{
    background-repeat: no-repeat;
 
 }
+.second-section{
+    background-image: url( images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    
+}
 
 h1{
     font-size: 50px;
@@ -17,6 +22,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
